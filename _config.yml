@@ -30,3 +30,4 @@ github_username:  jekyll
 markdown: kramdown
 theme: jekyll-theme-architect
 >>>>>>> Stashed changes
+permalink: /blog/:year/:month/:day/:title
