@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "David Williams, IT Nerd, Launches GitHub site."
 date: 2017-12-20
 ---
