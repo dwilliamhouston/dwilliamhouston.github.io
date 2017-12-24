@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: "David Williams, IT Nerd, Launches website."
+title: "David Williams, IT Nerd, launches website."
 date: 2017-12-20
 ---
 
