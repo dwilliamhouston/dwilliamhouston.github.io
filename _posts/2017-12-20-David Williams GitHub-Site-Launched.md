@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: "David Williams, IT Nerd, Launches GitHub site."
+title: "David Williams, IT Nerd, Launches website."
 date: 2017-12-20
 ---
 
